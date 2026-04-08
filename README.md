@@ -1,4 +1,10 @@
 
+💫 **About Me**
+
+🔭 Cloud & DevOps Engineer | Hands-on in Machine Learning
+👯 Open to collaborating on Cloud, DevOps, and ML projects
+🌱 Learning Kubernetes, CI/CD, and MLOps
+💬 Ask me about Cloud, DevOps, and ML
 
 
 ## 🌐 Socials:
